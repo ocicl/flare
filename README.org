@@ -1,0 +1,10 @@
+* flare
+
+Easy particle systems with fine grained control.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/flare.git   |
+| commit  | 3e80e70  |
+| systems | flare |
+|---------+-------------------------------------------|
+
