@@ -4,6 +4,6 @@ Easy particle systems with fine grained control.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Shinmera/flare.git |
-| commit  | ea97def                                   |
+| commit  | b65fdd1                                   |
 | systems | flare                                     |
 |---------+-------------------------------------------|
